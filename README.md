@@ -10,10 +10,10 @@ CSS
 JavaScript
 
 # Getting Started
-apri il counter al link: "", una volta aperta la pagina sarà possibile incrementare il counter di 1 premendo sul "+" e diminuirlo premendo "-", per resettare il counter premere "reset count"
+Apri il counter al link: "", una volta aperta la pagina sarà possibile incrementare il counter di 1 premendo sul "+" e diminuirlo premendo "-", per resettare il counter premere "reset count"
 
 # Prerequisites
-non sono presenti requisiti necessari
+Non sono presenti requisiti necessari
 
 # Usage
 Usare il counter per tenere il conto.
@@ -42,6 +42,6 @@ Non dimenticare di dare una stella al progetto! Grazie ancora!
 Distribuito sotto la licenza MIT. Vedi LICENSE.txt per maggiori informazioni.
 
 # Contact
-Luca Sannia - @lucasanniaxx - information@lucasannia.com
+Luca Sannia - X: @lucasanniaxx - information@lucasannia.com
 
 Link del progetto: https://github.com/SLuca-24/Counter

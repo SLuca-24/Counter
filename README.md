@@ -17,7 +17,7 @@ JavaScript
 Apri il counter al link: "https://peaceful-moxie-e8c78f.netlify.app/", una volta aperta la pagina sarà possibile incrementare il counter di 1 premendo sul "+" e diminuirlo premendo "-", per resettare il counter premere "reset count"
 
 # Prerequisites
-Non sono richiesti requisiti necessari
+Non sono richiesti prerequisiti necessari
 
 # Usage
 Usare il counter per tenere il conto.

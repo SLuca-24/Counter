@@ -4,13 +4,17 @@ Il progetto Counter è un'applicazione web che permette di incrementare, decreme
 
 ![Counter Screenshot](assets/img/screen-counter.png)
 
+# Link
+
+Link dove poter visionare e usare il progetto: https://peaceful-moxie-e8c78f.netlify.app/
+
 # Built With
 HTML
 CSS
 JavaScript
 
 # Getting Started
-Apri il counter al link: "", una volta aperta la pagina sarà possibile incrementare il counter di 1 premendo sul "+" e diminuirlo premendo "-", per resettare il counter premere "reset count"
+Apri il counter al link: "https://peaceful-moxie-e8c78f.netlify.app/", una volta aperta la pagina sarà possibile incrementare il counter di 1 premendo sul "+" e diminuirlo premendo "-", per resettare il counter premere "reset count"
 
 # Prerequisites
 Non sono presenti requisiti necessari
